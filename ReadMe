@@ -1,0 +1,20 @@
+##
+This is docker based lab setup for automating the infrastucture application & services
+OS Platform:
+    - CentOS
+    - Ubuntu
+
+Container Platform:
+    - Docker
+
+Automation Tools:
+    - Ansible
+    - Terraform
+    - AWS Tools
+
+The goal is to build a development and application environment fully automated with least human intervention.
+
+
+Lab # 1.
+
+Ansible automation to launch docker containers for application development 
